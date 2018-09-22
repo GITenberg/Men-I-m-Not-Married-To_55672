@@ -1,5 +1,8 @@
 _repo: Men-I-m-Not-Married-To_55672
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55672-h/images/cover.jpg
 creator:
   author:
     agent_name: Parker, Dorothy
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5625
     wikipedia: http://en.wikipedia.org/wiki/Dorothy_Parker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55672#Men-I-m-Not-Married-To
 gutenberg_issued: '2017-10-02'
 gutenberg_type: Text
 identifiers:
